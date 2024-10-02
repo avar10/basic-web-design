@@ -3,8 +3,7 @@
 body {
     background-color: burlywood;
     font-family: "Afacad Flux", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: weight;
+    font-weight: normal;
     font-style: normal;
     font-variation-settings: "slnt" 0;
 }
@@ -34,7 +33,7 @@ img {
     left: 0;
     width: 100%;
     height: 100%;
-    
+
 }
 
 /* Mobile Styles */
